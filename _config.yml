@@ -17,11 +17,11 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: https://www.zhihu.com/people/a-er-fa-15
+  zhihu: a-er-fa-15
   email: 1391889687@qq.com
-  github: https://github.com/guiyang882
+  github: guiyang882
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Guiyang882
 
 url: https://guiyang882.github.io
 
