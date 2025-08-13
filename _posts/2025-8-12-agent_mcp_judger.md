@@ -2,7 +2,7 @@
 layout: post
 title: "Judger Agent's Decision Maker"
 date:   2025-8-12
-tags: [agent,LLM]
+tags: [Agent,LLM]
 comments: true
 author: guiyang882
 ---
