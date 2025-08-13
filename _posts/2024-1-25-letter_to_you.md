@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "Block Inc.增长潜力综合分析报告"
-date:   2025-8-14
-tags: [investment]
+title: "零基础小白如何搭建自己的 github.io 个人网站"
+date:   2024-1-25
+tags: [web]
 comments: true
 author: guiyang882
 ---
+
+###### 说明：本教程只针对不了解网站搭建并且想要快速搭建起个人博客的新手，帮助建立网站的平台有很多，有一定网站开发基础的读者可另寻门路
+
+<!-- more -->
 
 # **Block Inc.增长潜力综合分析报告**
 
