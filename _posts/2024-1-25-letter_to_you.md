@@ -2,7 +2,7 @@
 layout: post
 title: "Block Inc.增长潜力综合分析报告"
 date:   2025-8-14
-tags: [Investment]
+tags: [investment]
 comments: true
 author: guiyang882
 ---
