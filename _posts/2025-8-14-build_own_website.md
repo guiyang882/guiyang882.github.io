@@ -146,30 +146,57 @@ Cash App和Square两大核心生态系统的毛利润重新加速增长，是未
 #### **引用的文献**
 
 1\. Block, Inc. (XYZ) Investor Relations \- Investor Relations, https://investors.block.xyz/overview/default.aspx 
+
 2\. Block, Inc. Announces $1.5 Billion Offering of Senior Notes \- Morningstar, https://www.morningstar.com/news/business-wire/20250813397567/block-inc-announces-15-billion-offering-of-senior-notes 
+
 3\. Block, Inc. (Form: 10-K, Received \- EDGAR Online, https://content.edgar-online.com/ExternalLink/EDGAR/0001628280-25-007376.html?hash=8501737123c9bb9d6d5c659d30ccc7d270c544ed7a1a118ef1a1429b0c75527a\&dest=exhibit46blockinc2024\_htm 
+
 4\. Earnings call transcript: Block's Q2 2025 sees stock surge despite earnings miss By Investing.com, https://www.investing.com/news/transcripts/earnings-call-transcript-blocks-q2-2025-sees-stock-surge-despite-earnings-miss-93CH-4179940 
+
 5\. Block Inc. Q2 Profit Increases, But Misses Estimates \- Nasdaq, https://www.nasdaq.com/articles/block-inc-q2-profit-increases-misses-estimates 
+
 6\. Block, Inc. SEC 10-K Report \- TradingView, https://www.tradingview.com/news/tradingview:e543d667d6e24:0-block-inc-sec-10-k-report/ 
+
 7\. TBD, https://tbd.website/ 
+
 8\. Block Shifts Focus: Dorsey Scales Back TIDAL Investment and Closes TBD to Dive Deep into Bitcoin Mining \- The Silicon Review, https://thesiliconreview.com/2024/11/block-bitcoin-mining-tidal-investment-jack-dorsey-crypto-wallet 
+
 9\. Jack Dorsey's Block to prioritize bitcoin mining and wind down decentralized tech arm TBD, https://www.theblock.co/post/325142/jack-dorseys-block-to-prioritize-bitcoin-mining 
+
 10\. Afterpay Fuels Block's Profit Surge \- Sharecafe, https://www.sharecafe.com.au/2025/08/08/afterpay-fuels-blocks-profit-surge/ 
+
 11\. Could Block's BNPL Moves Reshape Its Financial Ecosystem ..., https://www.tradingview.com/news/zacks:9a395e70c094b:0-could-block-s-bnpl-moves-reshape-its-financial-ecosystem/ 
+
 12\. Careers \- Head of Design, TIDAL \- Block, https://block.xyz/careers/jobs/4790252008 
+
 13\. How Jack Dorsey's Block Inc Is Reinventing Finance With Bitcoin, https://bitcoinmagazine.com/business/jack-dorseys-block-inc-is-reinventing-finance-bitcoin 
+
 14\. Block, Inc. Announces $1.5 Billion Offering of Senior Notes \- Business Wire, https://www.businesswire.com/news/home/20250813397567/en/Block-Inc.-Announces-%241.5-Billion-Offering-of-Senior-Notes 
+
 15\. Block \- Global Digital Finance, https://www.gdf.io/company/block/ 
+
 16\. Block | Sequoia Capital, https://www.sequoiacap.com/companies/block/ 
+
 17\. Spiral Fuels Growth With Launch of Savings Center Amid Rising ..., https://www.businesswire.com/news/home/20250812383602/en/Spiral-Fuels-Growth-With-Launch-of-Savings-Center-Amid-Rising-Demand 
+
 18\. XBRL Viewer \- SEC.gov, https://www.sec.gov/ix?doc=/Archives/edgar/data/1512673/000162828024006354/sq-20231231.htm 
+
 19\. 10-K Filing Block Inc. 2024, https://data-api.marketindex.com.au/api/v1/announcements/XASX:XYZ:3A662484/pdf/inline/Exhibit%204.3%20Block%20Inc.%202024.pdf 
+
 20\. Block, Inc., https://s29.q4cdn.com/628966176/files/doc\_financials/2025/q2/5b02b17d-ada5-4ef3-baad-0cd5cdbe4fcc.pdf 
+
 21\. Block shares jump 8% as cash app fuels higher profit forecast \- Mitrade, https://www.mitrade.com/insights/news/live-news/article-3-1022600-20250808 
+
 22\. FinTech Market Overview with Size, Share, Value | Growth \[2032\], https://www.fortunebusinessinsights.com/fintech-market-108641 
+
 23\. Payment Processing Solutions Market Size to Hit USD 914.91 Bn by 2034, https://www.precedenceresearch.com/payment-processing-solutions-market 
+
 24\. Digital Wallet Market Overview and Growth Trends, https://introspectivemarketresearch.com/reports/digital-wallet-market/ 
+
 25\. The Six Trends Quickly Reshaping the Payments Industry in 2025 ..., https://www.retailtouchpoints.com/features/executive-viewpoints/the-six-trends-quickly-reshaping-the-payments-industry-in-2025 
+
 26\. Top 7 Payment Trends To Watch In Payment Processing \- Stax Payments, https://staxpayments.com/blog/top-7-payment-trends/ 
+
 27\. PayPal vs. Stripe (2025 Comparison) – Forbes Advisor, https://www.forbes.com/advisor/business/software/paypal-vs-stripe/ 
+
 28\. Analyzing Competitor Moves: Payment Processing Growth Outlook 2025-2033, https://www.datainsightsmarket.com/reports/payment-processing-502967
